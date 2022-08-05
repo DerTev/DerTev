@@ -1,5 +1,5 @@
 ```kotlin
-class DerTev: Person() {
+class DerTev : Person() {
     val name = "DerTev"
     val developer = true
     val languages = listOf("Kotlin", "Python")
